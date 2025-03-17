@@ -1,4 +1,3 @@
-# CesarGonzalez-program
 # Student Grade Calculator
 
 A C++ program that calculates student test score averages and determines letter grades.
